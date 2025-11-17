@@ -1,7 +1,7 @@
 {
-  "name": "Pr_VarifyWorkItem4_Dispatcher",
-  "projectId": "2197a680-5433-4d3a-9f15-7c7413a168c9",
-  "description": "",
+  "name": "pr_VarifyWorkItem4_Performer",
+  "projectId": "7cd61ea2-7c7a-4c2a-81f9-5b5e02d6a719",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.24.3]",
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "0cca6912-5eab-49d7-a1eb-742da793b6ca",
+      "uniqueId": "55c0a324-7444-4041-ab44-49d4b21e23a1",
       "input": [],
       "output": []
     }

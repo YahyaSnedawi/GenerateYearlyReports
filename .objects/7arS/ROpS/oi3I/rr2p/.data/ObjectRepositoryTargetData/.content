@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="01fPfvlEVEGupXkJIi2x7g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/upload" CVScreenId="870a0395-a37a-4941-9977-0e67a168c0c4" DesignTimeRectangle="190, 59, 1450, 35" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='Address and search bar' role='editable text' text='https://acme-test.uipath.com/reports/upload' /&gt;" Guid="427b5d38-446f-4095-9f97-4e5a909c1c7d" ScopeSelectorArgument="&lt;wnd app='msedge.exe' title='ACME System 1 - Upload Yearly Report - Personal - Microsoft​ Edg*' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0b11616c668daf00182141615c33ebcd.png" xmlns="">08IyxsvGSlkSdjLaoI-ti7w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

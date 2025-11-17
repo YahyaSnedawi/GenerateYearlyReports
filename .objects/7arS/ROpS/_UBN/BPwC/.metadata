@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Upload Yearly Report",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "BPwCs_52PEugZW3F7QfZ_w",
+  "Reference": "M_UhKKZHk0Ou8UmRFccgXQ/BPwCs_52PEugZW3F7QfZ_w",
+  "ParentRef": "M_UhKKZHk0Ou8UmRFccgXQ/_UBNzVdgS0az70AamcQiGw",
+  "Created": "2024-11-28T05:27:10.5639921Z",
+  "Updated": "2024-11-28T05:27:10.5639921Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

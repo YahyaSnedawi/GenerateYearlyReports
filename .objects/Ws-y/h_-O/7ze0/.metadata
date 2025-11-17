@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Download Excel File",
+  "Type": "Screen",
+  "Id": "7ze0G1GOU0mmVHV4ktnoyA",
+  "Reference": "M_UhKKZHk0Ou8UmRFccgXQ/7ze0G1GOU0mmVHV4ktnoyA",
+  "ParentRef": "M_UhKKZHk0Ou8UmRFccgXQ/h_-OvsH8NkCMOgbJ2Ls6HQ",
+  "Created": "2024-11-27T11:57:53.63455Z",
+  "Updated": "2024-11-27T11:57:53.63455Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

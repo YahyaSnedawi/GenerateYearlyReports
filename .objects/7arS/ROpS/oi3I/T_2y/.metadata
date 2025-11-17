@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Select Report File",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "T_2ygOzh9Eindwjaati63A",
+  "Reference": "M_UhKKZHk0Ou8UmRFccgXQ/T_2ygOzh9Eindwjaati63A",
+  "ParentRef": "M_UhKKZHk0Ou8UmRFccgXQ/oi3Iv8k090eP3NT7DEJ9Iw",
+  "Created": "2024-11-28T05:38:32.220891Z",
+  "Updated": "2024-11-28T05:38:32.220891Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Download Excel File",
+  "Type": "App",
+  "Id": "Ws-y6MsH70eQZJeQPZZh7Q",
+  "Reference": "M_UhKKZHk0Ou8UmRFccgXQ/Ws-y6MsH70eQZJeQPZZh7Q",
+  "Created": "2024-11-27T11:57:53.6038387Z",
+  "Updated": "2024-11-27T11:57:53.6038387Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

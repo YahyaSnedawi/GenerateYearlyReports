@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-iMmdMuzukewYdqXj4yGlw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/download" CVScreenId="20914bf0-5096-4faf-9816-5d1af6120fdb" CvTextArea="87, 122, 368, 15" CvTextArgument="Save as Ctrl+S" CvType="Text" DesignTimeRectangle="35, 109, 465, 40" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;ctrl name='Save as Ctrl+S' role='menu item' /&gt;" FuzzyAccuracy="0.96" FuzzySelectorArgument="&lt;ctrl name='Save as Ctrl+S' role='menu item' automationid='' check:text='Save as Ctrl+S' /&gt;" Guid="397d626c-7984-44d0-908b-901a57480081" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="96b60b0e1b75d619afd5682d08ec0a7d.png" xmlns="">0QNPLlNglSkaTLY2uKjCCRg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

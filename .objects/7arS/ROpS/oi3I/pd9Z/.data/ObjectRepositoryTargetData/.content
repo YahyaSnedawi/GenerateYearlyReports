@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yaBO0SWgsUSTISSbuUDtAg" Reference="M_UhKKZHk0Ou8UmRFccgXQ/pd9Zx4ojLUaHfbPGYvWaFQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/reports/download" CVScreenId="7f9c5db8-b024-40d6-bb0d-c1bbd14f4f76" DesignTimeRectangle="344, 703, 167, 42" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl id='buttonDownload' tag='BUTTON' visibleinnertext='Download Report' /&gt;" Guid="a71e1230-1571-4e14-b1b6-2b00599a53e6" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Download Monthly Report' url='https://acme-test.uipath.com/reports/download' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="97a84fefc4097a00c3d5d08bd888c4af.png" xmlns="">0oer0WlFKK0ivGfIpmxlwpg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
